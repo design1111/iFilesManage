@@ -1,9 +1,9 @@
 {
   "version": "2.0.1",
-  "changelog": "\n版本 2.0.1 更新内容：\n\n- 修复：xxx\n- 优化：xxx\n- 新增：xxx\n",
+  "changelog": "\n版本 2.0.1 更新内容：这里用作测试2026.1.14--18：57\n\n- 修复：暂时没有xxx\n- 优化：xxx\n- 新增：xxx\n",
   "download_pages": {
-    "github": "https://github.com/<owner>/<repo>/releases/latest",
-    "gitee": "https://gitee.com/<owner>/<repo>/releases",
-    "reserved": ""
+    "github": "",
+    "gitee": "",
+    "reserved": "https://download.csdn.net/download/qq_42530422/92472613?spm=1011.2124.3001.6210"
   }
 }
