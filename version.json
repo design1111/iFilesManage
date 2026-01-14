@@ -1,7 +1,9 @@
 {
-  "latest_version": "2.0.1",
-  "release_date": "2025-01-14",
-  "changelog": "新增全局配置管理，修复窗口激活问题，添加软件激活系统，优化响应式布局",
-  "download_url": "https://github.com/design1111/iFilesManage/releases/FilesManage.exe",
-  "release_notes_url": "https://github.com/design1111/iFilesManage"
+  "version": "2.0.1",
+  "changelog": "\n版本 2.0.1 更新内容：\n\n- 修复：xxx\n- 优化：xxx\n- 新增：xxx\n",
+  "download_pages": {
+    "github": "https://github.com/<owner>/<repo>/releases/latest",
+    "gitee": "https://gitee.com/<owner>/<repo>/releases",
+    "reserved": ""
+  }
 }
