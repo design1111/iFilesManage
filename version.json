@@ -1,9 +1,9 @@
 {
-  "version": "2.0.1",
-  "changelog": "\n 用户你好，当前软件为快速迭代阶段，近期会修复大量bug，产生新的版本，如有需要请您及时更新。\n 对于本软件需要改进的建议，您也可以发送邮件至：745998860@qq.com，提出您宝贵的建议，非常感谢！\n版本 2.0.0 更新内容：\n\n- 修复：xxx\n- 优化：xxx\n- 新增：xxx\n",
+  "version": "2.0.2",
+  "changelog": "\n 用户你好，当前软件为快速迭代阶段，近期会修复大量bug，产生新的版本，如有需要请您及时更新。\n 对于本软件需要改进的建议，您也可以发送邮件至：745998860@qq.com，提出您宝贵的建议，非常感谢！\n版本 2.0.2 更新内容：新增文件当前路径搜索\n 新增上次文件打开保存功能\n\n- 修复：xxx\n- 优化：xxx\n- 新增：xxx\n",
   "download_pages": {
-    "github": "https://raw.githubusercontent.com/design1111/iFilesManage/main/version.json",
-    "gitee": "https://raw.githubusercontent.com/lei-lei-1/iFilesManage/main/version.json",
-    "reserved": "https://download.csdn.net/download/qq_42530422/92472613?spm=1011.2124.3001.6210"
+    "github": "https://github.com/design1111/iFilesManage/releases/download/v2.0.2/iFilesManage_v2.0.2_set.exe",
+    "gitee": "https://gitee.com/lei-lei-1/iFilesManage/releases/download/v2.0.2/iFilesManage_v2.0.2_set.exe",
+    "reserved": "https://ifilesmanage.kesug.com/?i=1"
   }
 }
